@@ -3,10 +3,10 @@ lt application files
 *.ap_
 
 # for mac
-.DS_Store
+*.DS_Store
 
 # IDE for andriod studio
-.idea
+/.idea/
 andriod/KillExam/app/src/main/.idea
 
 # Files for the Dalvik VM
